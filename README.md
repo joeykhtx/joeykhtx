@@ -10,7 +10,11 @@
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
-<h2>👨‍💻 Certifications:</h2>
+<h2>🧾 Certifications:</h2>
+
+  - [CompTIA Security+](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [CompTIA Network+](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [ISC CC – Certified in Cybersecurity](https://github.com/joshmadakor1/Sentinel-Lab)
 
 <h2> 🤳 Connect with me:</h2>
 
