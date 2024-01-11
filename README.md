@@ -12,7 +12,7 @@
 
 <h2>🧾 Certifications:</h2>
 
-  - [CompTIA Security+](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [CompTIA Security+](https://imgur.com/a/EP2br41)
   - [CompTIA Network+](https://github.com/joshmadakor1/Sentinel-Lab)
   - [ISC CC – Certified in Cybersecurity](https://github.com/joshmadakor1/Sentinel-Lab)
 
