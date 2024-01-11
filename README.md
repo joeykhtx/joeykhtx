@@ -13,8 +13,8 @@
 <h2>🧾 Certifications:</h2>
 
   - [CompTIA Security+](https://imgur.com/a/EP2br41)
-  - [CompTIA Network+](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [ISC CC – Certified in Cybersecurity](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [CompTIA Network+](https://imgur.com/a/U5BQsdA)
+  - [ISC CC – Certified in Cybersecurity](https://imgur.com/a/T1gbX5I)
 
 <h2> 🤳 Connect with me:</h2>
 
