@@ -12,9 +12,9 @@
 
 <h2>🧾 Certifications:</h2>
 
-  - [CompTIA Security+](https://imgur.com/a/EP2br41)
-  - [CompTIA Network+](https://imgur.com/a/U5BQsdA)
-  - [ISC CC – Certified in Cybersecurity](https://imgur.com/a/T1gbX5I)
+  - [CompTIA Security+](https://i.imgur.com/95XbqAz.png)
+  - [CompTIA Network+](https://i.imgur.com/rvTwoPu.png)
+  - [ISC CC – Certified in Cybersecurity](https://i.imgur.com/uP9OVvG.png)
 
 <h2> 🤳 Connect with me:</h2>
 
