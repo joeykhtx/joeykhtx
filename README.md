@@ -7,7 +7,7 @@
 - <b>PowerShell</b>
   - [FIM (File Integrity Monitor)](https://github.com/joeykhtx/FIMLab)
 
-<h2>👨‍💻 Continued Learning Labs:</h2>
+<h2>📚 Continued Learning Labs:</h2>
 
 - <b>SQL Essentials</b>
   - [SQL With SQLite](https://github.com/joeykhtx/VulnerabilityManagementLab)
