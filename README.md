@@ -10,11 +10,11 @@
 <h2>📚 Continued Learning Labs:</h2>
 
 - <b>SQL Essentials</b>
-  - [SQL With SQLite](https://github.com/joeykhtx/VulnerabilityManagementLab)
+  - [SQL With SQLite](https://github.com/joeykhtx/UnderConstruction)
 - <b>Kali Linux</b>
-  - [Installing Kali Linux to a Virtual Machine](https://github.com/joeykhtx/VulnerabilityManagementLab)   
+  - [Installing Kali Linux to a Virtual Machine](https://github.com/joeykhtx/UnderConstruction)   
 - <b>Python</b>
-  - [Creating a Quiz Game with Python](https://github.com/joeykhtx/VulnerabilityManagementLab)
+  - [Creating a Quiz Game with Python](https://github.com/joeykhtx/UnderConstruction)
   
 <h2>🧾 Certifications:</h2>
 
