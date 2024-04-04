@@ -11,11 +11,10 @@
 
 - <b>SQL Essentials</b>
   - [SQL With SQLite](https://github.com/joeykhtx/VulnerabilityManagementLab)
-
 - <b>Kali Linux</b>
-
-- <b>SQL Essentials</b>
-
+  - [Installing Kali Linux to a Virtual Machine](https://github.com/joeykhtx/VulnerabilityManagementLab)   
+- <b>Python</b>
+  - [Creating a Quiz Game with Python](https://github.com/joeykhtx/VulnerabilityManagementLab)
   
 <h2>🧾 Certifications:</h2>
 
