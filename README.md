@@ -10,7 +10,7 @@
 <h2>👨‍💻 Continued Learning Labs:</h2>
 
 - <b>SQL Essentials</b>
-- [SQL With SQLite](https://github.com/joeykhtx/VulnerabilityManagementLab)
+  - [SQL With SQLite](https://github.com/joeykhtx/VulnerabilityManagementLab)
 
   
 <h2>🧾 Certifications:</h2>
