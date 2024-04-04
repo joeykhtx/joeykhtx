@@ -12,6 +12,10 @@
 - <b>SQL Essentials</b>
   - [SQL With SQLite](https://github.com/joeykhtx/VulnerabilityManagementLab)
 
+- <b>Kali Linux</b>
+
+- <b>SQL Essentials</b>
+
   
 <h2>🧾 Certifications:</h2>
 
