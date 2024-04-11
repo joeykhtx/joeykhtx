@@ -2,6 +2,7 @@
 
 <h2></h2>
 Welcome to my github where you can see the cool things I'm tinkering with. I'll try to document my progress with Tech and Cybersecurity as much as possible.<br />
+<br />
 In most cases nothing great comes natural so keep on working at it! <br />
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
