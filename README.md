@@ -6,13 +6,13 @@
   - [Vulnerability Management using Nessus](https://github.com/joeykhtx/VulnerabilityManagementLab)
 - <b>PowerShell</b>
   - [FIM (File Integrity Monitor)](https://github.com/joeykhtx/FIMLab)
+- <b>Kali Linux</b>
+  - [Installing Kali Linux to a Virtual Machine](https://github.com/joeykhtx/KaliLinuxWindowsInstall) 
 
 <h2>📚 Continued Learning Labs:</h2>
 
 - <b>SQL Essentials</b>
   - [SQL With SQLite](https://github.com/joeykhtx/UnderConstruction)
-- <b>Kali Linux</b>
-  - [Installing Kali Linux to a Virtual Machine](https://github.com/joeykhtx/KaliLinuxWindowsInstall) 
 - <b>Python</b>
   - [Creating a Quiz Game with Python](https://github.com/joeykhtx/UnderConstruction)
   
