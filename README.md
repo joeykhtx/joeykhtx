@@ -1,7 +1,8 @@
 <h1>Hi, I'm Joey! <br/><a href="https://www.linkedin.com/in/joeykh/">Cybersecurity Professional</a> & <a href="https://github.com/joeyktx">Creator</a>
 
 <h2></h2>
-Welcome to my github where you can see the cool things I'm tinkering with. I'll try to document my progress with Tech and Cybersecurity as much as possible.<br />
+Welcome to my github where you can see the cool things I'm tinkering with.<br />
+I'll try to document my progress with Tech and Cybersecurity as much as possible.<br />
 <br />
 In most cases nothing great comes natural so keep on working at it! <br />
 
