@@ -1,8 +1,9 @@
 <h1>Hi, I'm Joey! <br/><a href="https://www.linkedin.com/in/joeykh/">Cybersecurity Professional</a> & <a href="https://github.com/joeyktx">Creator</a>
 <br />
+<br />  
 Welcome to my github where you can see the cool things I'm tinkering with. I'll try to document my progress with Tech and Cybersecurity as much as possible.<br />
 In most cases nothing great comes natural so keep on working at it! <br />
-<br />
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Vulnerability Management</b>
