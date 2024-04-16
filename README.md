@@ -20,7 +20,7 @@ In most cases nothing great comes natural so keep on working at it! <br />
 - <b>SQL Essentials</b>
   - [SQL With SQLite](https://github.com/joeykhtx/UnderConstruction)
 - <b>Python</b>
-  - [Creating a Quiz Game with Python](https://github.com/joeykhtx/UnderConstruction)
+  - [Creating a Quiz Game with Python](https://github.com/joeykhtx/SneakerheadQuizGame)
   
 <h2>🧾 Certifications:</h2>
 
